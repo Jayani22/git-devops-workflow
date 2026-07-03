@@ -57,3 +57,10 @@ Feature Branch
        ▼
      main
 ```
+## Objectives
+
+- Learn Git version control
+- Practice branching strategies
+- Manage feature development
+- Use Pull Requests
+- Create Git tags
